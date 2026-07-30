@@ -1,0 +1,8 @@
+{
+  "name": "Happy Girlfriend Day",
+  "description": "An interactive romantic digital gift for Happy Girlfriend Day on August 1st with custom letters, music, photo gallery, spin wheel of love, scratch-off secrets, and full gift personalization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
